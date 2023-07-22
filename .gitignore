@@ -1,0 +1,8 @@
+# jest coverage files
+coverage
+
+# node dependencies
+node_modules/
+
+# stryker temp files
+.stryker-tmp
